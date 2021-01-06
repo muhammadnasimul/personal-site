@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Inknut Antiqua", serif;
+}
+nav {
+  float: right;
+}
+
+li {
+  list-style: none;
+  display: inline;
+  padding: 20px 20px 0 20px;
+  color: #9a3873;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+section {
+  height: 550px;
+}
+h1 {
+  margin: 0;
+}
+p {
+  line-height: 1.8;
+}
+.link-button {
+  font-size: 12px;
+  font-weight: 200;
+  text-decoration: none;
+  color: white;
+  background-color: #8845f4;
+  padding: 5px 30px;
+  border-radius: 30px;
+}
+
+.top-container {
+  margin: 20px;
+  padding-left: 20px;
+}
+.half-width {
+  padding-left: 2%;
+  width: 40%;
+  float: left;
+}
+.text-highlight {
+  color: #8845f4;
+}
+.half-width img {
+  width: 100%;
+  padding-bottom: 50px;
+}
+.first-div {
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.second-div {
+  margin-top: 40px;
+  padding-left: 40px;
+}
+.works-part {
+  margin-left: 50px;
+  padding-left: 50px;
+}
+.showcase-container {
+  height: 500px;
+  padding: 50px 50px;
+  background-color: #f8f9fc;
+}
+.works-n-team {
+  float: left;
+  width: 30%;
+  height: 40%;
+  margin: 10px;
+  box-shadow: 8px 8px 30px rgba(80, 78, 78, 0.377);
+  border-radius: 15px;
+}
+.works-n-team h3 {
+  margin-top: 0;
+  padding-left: 10px;
+}
+.works-n-team p {
+  margin-top: 0;
+  padding-left: 10px;
+  width: 80%;
+  font-size: 12px;
+}
+.works-n-team img {
+  width: 80%;
+  padding-left: 30px;
+}
+.text-styling {
+  width: 100%;
+  padding-bottom: 50px;
+  font-size: 1.823rem;
+  text-align: center;
+}
+.fourth-section,
+.last-section,
+.last-section {
+  height: 250px;
+}
+.work-inquiry {
+  margin: 100px auto;
+  background-image: url("images/Group_33094_1.png");
+  height: 180px;
+  width: 65%;
+  border-radius: 30px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.work-inquiry h1 {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 2.73rem;
+  margin-left: 50px;
+  padding-top: 65px;
+  width: 50%;
+  color: white;
+}
+.work-inquiry a {
+  color: white;
+  background-color: orange;
+  font-family: "Trebuchet MS", sans-serif;
+  text-decoration: none;
+  font-size: 1.1rem;
+  float: right;
+  border-radius: 5px;
+  margin-top: 70px;
+  margin-right: 50px;
+  padding: 10px 20px;
+}
+.contact-us {
+  text-align: center;
+}
+.contact-us h3 {
+  margin: 0;
+  font-family: "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode",
+    Geneva, Verdana, sans-serif;
+  color: #777777;
+}
+.contact-us img {
+  width: 3%;
+  margin: 5px;
+}
+.team-sec {
+  text-align: center;
+  margin-left: 250px;
+}
+.extra-styling {
+  width: 20%;
+  box-shadow: none;
+}
+.extra-styling img {
+  width: 70%;
+}
